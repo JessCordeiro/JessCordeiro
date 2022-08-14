@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jessica!</h1>
-<h3 align="center">Desenvolvedora Java BackEnd.</h3>
+<h3 align="center">Desenvolvedora Android.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesscordeiro&label=Profile%20views&color=0e75b6&style=flat" alt="jesscordeiro" /> </p>
 
